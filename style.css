@@ -1,0 +1,27 @@
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+background:lightblue;
+color: #000;
+}
+
+#status
+{
+font-size: 18px;
+}
+body{
+    background-size: cover;
+}
+canvas{
+    box-shadow: 5px 5px 20px blue;
+    border-radius: 20px;
+    margin-top: 40px;
+    
+}
+.back{
+    float: right;
+    margin-top: 30px;
+    margin-right: 15px;
+}
